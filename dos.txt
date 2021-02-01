@@ -1,9 +1,8 @@
 dos
 continue
-pushing
+pushing - probando
 creating
 box
-
 
 gal
 creating box
